@@ -13,12 +13,18 @@
 ### here is an example
 
 #### input: 1
-  \*  
- \***  
-\*****  
-  \*  
-  \*  
+
+&ensp;&ensp;\*  
+&ensp;\*\*\*  
+\*\*\*\*\*  
+&ensp;&ensp;\*  
+&ensp;&ensp;\*  
 
 # Question 5
+### Please design a program that allows the user to enter an integer n to calculate all prime numbers greater than 1 and less than n.
+Hint: If all positive integers smaller than the root of number n have no factor of n, then n is a prime number.
+
 # Question 6
+### Please design a program, input is year and month and date, calculate the day of the week, the program needs to be able to input continuously until input year is 0.
 # Question 7
+### Please design a program, input 4 number(ex: 1, 2, 3, 4), how many three-digit numbers are formed that are different from each other and have no duplicate numbers? Please output the number of permutation and lists all permutation.
