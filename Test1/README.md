@@ -13,11 +13,11 @@
 ### here is an example
 
 #### input: 1
-  *
- ***
-*****
-  *
-  *
+  \*
+ \***
+\*****
+ \\*
+  \*
 
 # Question 5
 # Question 6
